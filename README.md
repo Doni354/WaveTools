@@ -1,27 +1,28 @@
 ![](https://cdn.jamsg.cn/release/WaveTools/Preview.webp)
-# 🔨鸣潮工具箱
-🔨鸣潮工具箱是一个用于修改鸣潮画质帧率和查看抽卡分析的工具箱
+# 🔨 Alat Bantu Project Wuthering Waves
+🔨 Alat bantu ini merupakan toolbox yang digunakan untuk mengubah kualitas grafis, frame rate, dan melihat analisis gacha pada game Wuthering Waves.
 
-⚠️仅支持 x64、arm64 架构的 Windows 10 1809 及以上版本的系统
-# 功能
-### 当前版本的工具箱包括以下功能：
-🔓帧率解锁
+⚠️ Hanya mendukung sistem operasi Windows 10 1809 ke atas dengan arsitektur x64 dan arm64.
 
-⚙️画质修改
+# Fitur
+### Versi saat ini dari alat bantu ini mencakup fitur-fitur berikut:
+🔓 Membuka batas frame rate
 
-🗃️抽卡分析
+⚙️ Mengubah kualitas grafis
 
-🔑账号切换
+🗃️ Analisis gacha
 
-# 安装方法
-打开Powershell
+🔑 Pergantian akun
 
-输入``irm wavetools.jamsg.cn/get | iex``
+# Cara Instalasi
+Buka Powershell
 
-回车后将自动安装并启动WaveTools
+Ketikkan perintah berikut: `irm wavetools.jamsg.cn/get | iex`
 
-# 注意事项
-本工具箱仅适用于PC版鸣潮。
+Tekan Enter, maka instalasi dan peluncuran WaveTools akan dilakukan secara otomatis.
+
+# Catatan
+Alat bantu ini hanya dapat digunakan untuk versi PC dari Wuthering Waves.
 
 # Star
-[![Star History Chart](https://api.star-history.com/svg?repos=JamXi233/WaveTools&type=Date)](https://star-history.com/#JamXi233/WaveTools&Date)
+[![Riwayat Star](https://api.star-history.com/svg?repos=JamXi233/WaveTools&type=Date)](https://star-history.com/#JamXi233/WaveTools&Date)
